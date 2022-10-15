@@ -1,0 +1,40 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.0-beta.0",
+    "@kangc/v-md-editor": "^2.3.15",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.2.0",
+    "jquery": "^3.6.1",
+    "js-cookie": "^3.0.1",
+    "mavon-editor": "^2.10.4",
+    "md-editor-v3": "^2.2.1",
+    "prismjs": "^1.29.0",
+    "sanitize-html": "^2.7.1",
+    "summernote": "^0.8.18",
+    "vue": "^3.2.13",
+    "vue-cookies": "^1.8.1",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^4.0.3",
+    "wangeditor": "^4.7.15"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "vue-cli-plugin-element-plus": "~0.0.13"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
