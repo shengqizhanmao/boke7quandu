@@ -120,7 +120,7 @@
 <style scoped>
     .artcile2{
         float: left;
-        width: 1300px;
+        width: 1400px;
         padding-left: 100px;
         padding-top:100px;
         background-color: rgba(245, 245, 245, 0.762);
